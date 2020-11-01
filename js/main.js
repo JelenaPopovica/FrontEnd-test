@@ -1,5 +1,6 @@
 window.addEventListener('load', function(){
 
+  
   document.getElementById('checkbox').
   addEventListener('click', function(event){
     const isChecked = document.getElementsByName('checkbox')[0].checked;
